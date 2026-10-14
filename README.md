@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://alphacoder.site">
-    <img src="assets/alphacoder-hero.png" alt="Alphacoder AI — Your real-time interview assistant. Live transcription, coding and system design, local or API models." width="100%">
+    <img src="assets/alphacoder.png" alt="Alphacoder AI — Your real-time interview assistant. Live transcription, coding and system design, local or API models." width="100%">
   </a>
 </p>
 <h1 align="center">Alphacoder AI</h1>
