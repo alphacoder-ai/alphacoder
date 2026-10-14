@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://alphacoder.site">Website</a> ·
   <a href="https://alphacoder.site/downloads.html">Downloads</a> ·
-  <a href="https://alphacoder.site/account.html">My account</a> ·
+  <a href="https://alphacoder.site/account.html"> Try Now</a> ·
   <a href="https://alphacoder.site/contact.html">Support</a>
 </p>
 About
